@@ -1,0 +1,7 @@
+[package]
+name = "jlox"
+version = "0.1.0"
+authors = ["Leah <me@hrmny.sh>"]
+edition = "2018"
+
+[dependencies]

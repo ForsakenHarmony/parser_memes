@@ -1,7 +1,0 @@
-[package]
-name = "lbasi"
-version = "0.1.0"
-authors = ["ForsakenHarmony <ulliftw@gmail.com>"]
-edition = "2018"
-
-[dependencies]
